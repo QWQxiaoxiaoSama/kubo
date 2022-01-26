@@ -348,11 +348,11 @@
             return '倒计时多了' + ((deviation_time / 1000) - 20).toFixed(2) + "s";
         }
         SubmitResults();
-        if (score <= 49) return '嘶,你真是太逊了';
-        if (score <= 99) return '嘶，快但不完全快';
-        if (score <= 149) return '乂，不愧是你';
-        if (score <= 199) return '你真是太棒啦';
-        return 'W';
+        if (score <= 49) return '寄';
+        if (score <= 99) return '草';
+        if (score <= 149) return '牛';
+        if (score <= 199) return '不愧是你';
+        return '害怕';
     }
 
     w.toStr = function(obj) {
