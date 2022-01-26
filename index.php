@@ -2,8 +2,8 @@
 <html>
 
 <head>
-    <title>吃掉小小SaMa</title>
-    <meta itemprop="name" content="吃掉小小SaMa" />
+    <title>吃掉枯勃</title>
+    <meta itemprop="name" content="吃掉枯勃" />
     <meta itemprop="description" content="新概念音游（）" />
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, width=device-width,target-densitydpi=device-dpi" />
@@ -39,12 +39,12 @@
             <div style="margin:0 8% 0 9%;">
                 <div style="font-size:2.6em; color:#FEF002;">新概念音游（）</div><br />
                 <div style="font-size:2.2em; color:#fff; line-height:1.5em;">
-                    从最底下的沙马开始<br />
+                    从最底下的枯勃开始<br />
                     看看你20秒能多少分<br />
                 </div>
                 <br />
                 <div id="btn_group" style="display: block;">
-                    <button type="button" id="ready-btn" class="btn btn-primary loading btn-lg">点击去世</button>
+                    <button type="button" id="ready-btn" class="btn btn-primary loading btn-lg">点击开寄</button>
                     <br /><br />
                     <button type="button" class="btn btn-secondary btn-lg" onclick="show_setting()">游戏设置</button>
                 </div>
